@@ -1,4 +1,5 @@
 //Inicializando um array
+
 #include <iostream>
 #include <iomanip>
 #include <string>
@@ -20,6 +21,7 @@ struct dados{
 	string  cpf;
 	
 };
+
 int main(){
 	
 	int maxima_de_funcionarios = 5; // quantidade de funcionários para serem solicitados, com limite de 5.
